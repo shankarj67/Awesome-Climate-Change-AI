@@ -76,18 +76,15 @@ This is inspired from the content provided on https://www.climatechange.ai/.
 - https://medium.com/@alexmoltzau
 - https://www.nationalgeographic.com/environment/2019/07/artificial-intelligence-climate-change/
 - https://stanfordmlgroup.github.io/programs/aicc-bootcamp/
-
+- https://medium.com/the-research-nest/how-to-tackle-climate-change-using-machine-learning-8ab12e73d261
 
 
 # Contribution Guidelines
 
-Contributions are welcome to everyone who is interested in climate change and AI. I am looking for a resources such as books, tutorials,blog etc. on climate change and AI.
+Contributions are welcome to everyone interested in climate change and AI. I am looking for resources such as books, tutorials, blog etc. on climate change and AI.
 
 Here is how easy this is to contribute:
 
 1. Make an individual pull request for the resources you are adding.
 
 2. If you think something belongs in the wrong category, or think there needs to be a new category, feel free to edit things too.
-
-
-
