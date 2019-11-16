@@ -6,6 +6,9 @@
 # Awesome Climate Change and AI
 > A curated list of awesome things related to Climate change and Machine learning
 
+This is inspired from the content provided on https://www.climatechange.ai/. 
+
+
 ## Contents
 
 
@@ -78,12 +81,13 @@
 
 # Contribution Guidelines
 
-Contributions are welcome to everyone who is interested in climate change and AI. I am looking for resources such as books, tutorials,blog etc. on climaate change and AI.
+Contributions are welcome to everyone who is interested in climate change and AI. I am looking for a resources such as books, tutorials,blog etc. on climate change and AI.
 
 Here is how easy this is to contribute:
 
 1. Make an individual pull request for the resources you are adding.
 
 2. If you think something belongs in the wrong category, or think there needs to be a new category, feel free to edit things too.
+
 
 
