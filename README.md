@@ -36,21 +36,20 @@ This is inspired from the content provided on https://www.climatechange.ai/.
 
 - [Climate Change Forum](https://forum.climatechange.ai//) - Discourse Board
 - [Study Group](https://t.me/joinchat/KRc01BYfz_UOitAEfq7Eiw) - Group to discuss on climate change related topics.
-
+- [awesome-MIT-for-climate-change](https://github.com/blutjens/awesome-MIT-ai-for-climate-change) - List of MIT faculty interested in climate change and AI.
 
 ### Conferences
 
 
-- [ICML2019](https://www.climatechange.ai/ICML2019_workshop) - All workshop video with slides.
-
-
-- [NeurIPS 2019](https://www.climatechange.ai/NeurIPS2019_workshop) - Workshop to tackle Climate Change with Machine Learning
-
+- [CCAI20XX](https://www.climatechange.ai/events) - Workshops on Tackling Climate Change with AI at ICML, ICLR, NeurIPS
+- [KDD Fragile Earth](https://ai4good.org/what-we-do/fragile-earth/) - Workshops on applying data science for a sustainable planet at KDD.
+- [AAAI Special Track on AI for Social Impact](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/) - Conference track on Artificial Intelligence for Social Impact (AISI) at AAAI.
 
 
 ### Tutorials
 
-- [Code cenntric youtube](https://www.youtube.com/watch?v=pHdv4o0mfd0&t=124s) - Explanation of the original paper provided by climatechange.ai
+- [CCAI Tutorials](https://www.climatechange.ai/tutorials?) - Tutorials on Climate Change and AI.
+- [Code centric youtube](https://www.youtube.com/watch?v=pHdv4o0mfd0&t=124s) - Explanation of the original paper provided by climatechange.ai
 
 
 ### Books
@@ -61,7 +60,6 @@ This is inspired from the content provided on https://www.climatechange.ai/.
 ### Courses
 
 - [Global Warming I: The Science and Modeling of Climate Change](https://www.coursera.org/learn/global-warming)
-
 - [Global Warming II: Create Your Own Models in Python](https://www.coursera.org/learn/global-warming-model)
 
 ### Videos
